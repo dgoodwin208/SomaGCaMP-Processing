@@ -1,0 +1,6 @@
+#Ignore the results of the processing 
+Processed results/*
+Raw Data/*
+#With the exception of two quick readme.txt files
+!Processed results/readme.txt
+!Raw Data/readme.txt
